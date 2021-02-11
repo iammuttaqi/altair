@@ -1,0 +1,5 @@
+@font-face {  
+    font-family: "arabic";  
+    src: url( ufonts.com_traditional_arabic_1_.eot ); /* IE */  
+    src: local("ufonts.com_traditional-arabic"), url("ufonts.com_traditional-arabic.ttf") format("ttf"); /*non-IE*/  
+}

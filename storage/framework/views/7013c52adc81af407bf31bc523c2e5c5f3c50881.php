@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\altair\resources\views/auth/login.blade.php ENDPATH**/ ?>
